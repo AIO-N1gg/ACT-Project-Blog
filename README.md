@@ -378,5 +378,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <i>Built as part of VLA/VLM Engineer interview preparation</i>
+  <i>Built as part of AIO Conquer 2025 </i>
 </p>
