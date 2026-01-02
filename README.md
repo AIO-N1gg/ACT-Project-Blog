@@ -369,11 +369,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
+**Cong Thai Luu**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
+- GitHub: [Cong Thai](https://github.com/zerokhong1)
+- LinkedIn: [Luu Thai](https://www.linkedin.com/in/congthaineur/)
+- Email: thailuucong.hust@gmail.com
 
 ---
 
